@@ -9,21 +9,13 @@ Currently pursuing B.Tech in Cybersecurity at SRM Institute of Science and Techn
 I'm a first-year cybersecurity student curious about how secure, scalable systems are built in industries like finance, defense, and enterprise tech. I enjoy learning by building — from honeypots to automation with Arduino — and I'm gradually exploring AI, system design, and web development.
 
 
- Technical Snapshot
+Projects
 
-- **Cybersecurity**: Honeypots, basic network security, beginner CTFs
-- **Programming**: C, C++, Java, Python, JavaScript, learning React
-- **AI/ML**: Intro projects with GPT, exploring ML concepts
-- **Embedded Systems**: Arduino-based automation, sensor integration
-- **Tools**: Git, Linux, Wireshark, Burp Suite, Arduino IDE
+Deception System (Hackathon) – Simulates login portals to detect suspicious activity (Python, Flask)Built with guidance from ChatGPT, online resources, and mentorship.
 
- Projects
+Smart Irrigation System – Arduino-based moisture sensor automation (Arduino, LCD, Relay)Developed using tutorials and Arduino community documentation.
 
-- **Deception System (Hackathon)** – Simulates login portals to detect suspicious activity *(Python, Flask)*
-- **Smart Irrigation System** – Arduino-based moisture sensor automation *(Arduino, LCD, Relay)*
-- **Retail Bot (Concept)** – AI shopping assistant idea using GPT *(Node.js, GPT-3 API)*
-
-
+Retail Bot (Concept) – AI shopping assistant idea using GPT (Node.js, GPT-3 API)Exploratory project supported by GPT-based learning and developer forums.
 
 > "Who Dares Wins"
 
