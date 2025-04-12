@@ -1,15 +1,15 @@
 
- 👋 Hi, I'm Pranav Verma
+ ## 👋  Hi, I'm Pranav Verma
 
 Cybersecurity Student | Exploring Secure Systems, AI, and Embedded Tech\
-Currently pursuing B.Tech in Cybersecurity at SRM Institute of Science and Technology, KTR (Chennai
+Currently pursuing B.Tech in Computer Science with specialization in Cybersecurity at SRM Institute of Science and Technology, KTR (Chennai)
 
 ## About Me
 
 I'm a first-year cybersecurity student curious about how secure, scalable systems are built in industries like finance, defense, and enterprise tech. I enjoy learning by building — from honeypots to automation with Arduino — and I'm gradually exploring AI, system design, and web development.
 
 
-##Projects
+## Projects
 
 Deception System (Hackathon) – Simulates login portals to detect suspicious activity (Python, Flask)Built with guidance from ChatGPT, online resources, and mentorship.
 
