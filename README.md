@@ -1,7 +1,31 @@
 
-# 👋 Hi, I'm Pranav Verma<br>Cybersecurity Student | Passionate about Secure Systems, AI, and Tech Innovation
-Currently pursuing B.Tech in Cybersecurity, SRM Institute of Science and Technology, KTR
-Currently studying in Chennai, India <br><br>---<br><br>##  About Me<br><br>I'm an ambitious first-year cybersecurity student with a strong curiosity for how systems can be protected, analyzed, and improved. I enjoy building hands-on projects that combine software, security, and AI — from smart honeypots to basic automation tools.<br><br>I'm especially interested in the intersection of cybersecurity and critical industries like finance, defense, and enterprise infrastructure — and how institutions like J.P. Morgan, DRDO, and top private companies build secure, scalable systems to protect sensitive data and operations.<br><br>My journey is just beginning, but I bring energy, discipline, and a growth mindset — and I’m excited to learn from real-world challenges, collaborate with others, and keep pushing boundaries in tech.<br><br>I am currently focusing on foundational programming languages such as C, C++, Java, and JavaScript, with an initial exploration into React for dynamic web development<br><br>---<br><br>##  Technical Interests<br><br>- **Cybersecurity (Exploring)**: Learning about honeypots, basic network security, and trying out beginner CTFs<br>- **Programming (Learning)**: Currently practicing C, C++, Java, Python, and starting to explore JavaScript and React<br>- **AI/ML (Beginning)**: Exploring machine learning concepts and experimenting with beginner projects using GPT<br>- **Embedded Systems (Hands-On)**: Getting familiar with Arduino, automation basics, and sensor integration<br>- **Tools I'm Exploring**: Learning to use Git, Linux commands, Wireshark, Burp Suite, and Arduino IDE<br><br>---<br><br>##  Projects So Far<br><br>###  Basic Deception System (Hackathon Project)<br><br>A prototype honeypot that simulates login portals and logs suspicious activity.\<br>→ *Python, Flask (guided by ChatGPT and mentorship)*<br><br>### Smart Irrigation System (Mini Project)<br><br>An Arduino-based automatic watering system that uses a soil moisture sensor to detect dryness.\<br>→ *Arduino, Relay, REES52 Sensor, LCD Display*<br><br>###  Personalized Retail Bot (Hackathon Idea)<br><br>Concept project for AI-powered shopping assistant, focused on learning recommendation systems.\<br>→ *Node.js, GPT-3 API (exploratory project with online guidance)*<br><br>---<br><br>## Highlights<br><br>- Selected for college-level hackathons and tech meetups<br>-  Actively learning: Object-Oriented Programming, Cybersecurity Basics, Web Development<br>-  Exploring: Capture the Flag (CTF) platforms and open-source communities<br><br><br><br>---<br><br>##  What I'm Looking For<br><br>- Internships or mentorship programs related to cybersecurity or software development<br>- Opportunities to contribute to real-world secure systems<br>- Collaboration with like-minded peers and professionals in tech<br><br>---<br><br>##  <br><br>*"Who Dares Wins"*<br><br>
+ 👋 Hi, I'm Pranav Verma
+
+Cybersecurity Student | Exploring Secure Systems, AI, and Embedded Tech\
+Currently pursuing B.Tech in Cybersecurity at SRM Institute of Science and Technology, KTR (Chennai
+
+ About Me
+
+I'm a first-year cybersecurity student curious about how secure, scalable systems are built in industries like finance, defense, and enterprise tech. I enjoy learning by building — from honeypots to automation with Arduino — and I'm gradually exploring AI, system design, and web development.
+
+
+ Technical Snapshot
+
+- **Cybersecurity**: Honeypots, basic network security, beginner CTFs
+- **Programming**: C, C++, Java, Python, JavaScript, learning React
+- **AI/ML**: Intro projects with GPT, exploring ML concepts
+- **Embedded Systems**: Arduino-based automation, sensor integration
+- **Tools**: Git, Linux, Wireshark, Burp Suite, Arduino IDE
+
+ Projects
+
+- **Deception System (Hackathon)** – Simulates login portals to detect suspicious activity *(Python, Flask)*
+- **Smart Irrigation System** – Arduino-based moisture sensor automation *(Arduino, LCD, Relay)*
+- **Retail Bot (Concept)** – AI shopping assistant idea using GPT *(Node.js, GPT-3 API)*
+
+
+
+> "Who Dares Wins"
 
 
 ## 🌐 Socials:
