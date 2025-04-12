@@ -6,7 +6,7 @@ Currently pursuing B.Tech in Computer Science with specialization in Cybersecuri
 
 ## About Me
 
-I'm a first-year cybersecurity student curious about how secure, scalable systems are built in industries like finance, defense, and enterprise tech. I enjoy learning by building — from honeypots to automation with Arduino — and I'm gradually exploring AI, system design, and web development.
+I'm a  cybersecurity student curious about how secure, scalable systems are built in industries like finance, defense, and enterprise tech. I enjoy learning by building — from honeypots to automation with Arduino — and I'm gradually exploring AI, system design, and web development.
 
 
 ## Projects
