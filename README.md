@@ -1,5 +1,5 @@
 
- ## 👋  Hi, I'm Pranav Verma
+ ##   Hi, I'm Pranav Verma
 
 Mastering offensive and defensive tactics, ethical hacking, reverse engineering, and AI-driven defenses to anticipate and counter high-stakes threats.
 ## 🌐 Socials:
